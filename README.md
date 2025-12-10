@@ -36,17 +36,6 @@ I'm an engineering enthusiast focused on bridging the gap between abstract mathe
 | **Tools** | Git, Excel (Advanced Data Processing), LaTeX |
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Constantine-cm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Constantine-cm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Constantine-cm&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
 <div align="center">
   <i>"Mathematics is the language in which God has written the universe." — Galileo Galilei</i>
 </div>
