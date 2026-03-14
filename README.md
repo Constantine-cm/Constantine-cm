@@ -16,7 +16,10 @@
 
 ### 🧐 About Me
 
-I'm an engineering enthusiast focused on bridging the gap between abstract mathematics and real-world hardware.
+Hello, im Bo!
+
+
+I'm a biomedical engineering focused on bridging the gap between abstract mathematics and real-world hardware.
 
 - 🔭 **Currently working on:** Machine Learning models (Car Price Prediction) & STM32 Embedded projects.
 - 🌱 **Learning:** Advanced Statistics, Mechanics (Statics), and optimizing ARM Assembly code.
