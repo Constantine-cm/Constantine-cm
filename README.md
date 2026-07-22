@@ -10,6 +10,7 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
+
 </div>
 
 ---
@@ -21,10 +22,10 @@ Hello, im Bo!
 
 I'm a biomedical engineering focused on bridging the gap between abstract mathematics and real-world hardware.
 
-- 🔭 **Currently working on:** Machine Learning models (Car Price Prediction) & STM32 Embedded projects.
+- 🔭 **Currently working on:** Computational Genomics, Bioinformatics, R.
 - 🌱 **Learning:** Advanced Statistics, Mechanics (Statics), and optimizing ARM Assembly code.
 - 👯 **Looking to collaborate on:** Data Science projects or Embedded System simulations (Wokwi).
-- 📐 **Fun fact:** I enjoy solving Differential Equations and analyzing structural loads for fun.
+- 📐 **Fun fact:** I love biology.
 
 ---
 
@@ -32,7 +33,7 @@ I'm a biomedical engineering focused on bridging the gap between abstract mathem
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Programming** | Python, C, ARM Assembly |
+| **Programming** | Python, C, ARM Assembly, R |
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-Learn |
 | **Embedded** | STM32, Wokwi Simulator, Electronics Design |
 | **Math & Theory** | Calculus, Linear Algebra, Statistics, Statics |
